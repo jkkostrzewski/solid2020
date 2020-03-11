@@ -38,8 +38,6 @@ class Contact {
 	public void setTelephone(String telephone) {
 		this.telephone = telephone;
 	}
-	
-	
 }
 
 
